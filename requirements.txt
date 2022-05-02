@@ -1,0 +1,6 @@
+discord
+pymongo
+math
+time
+logging
+random
